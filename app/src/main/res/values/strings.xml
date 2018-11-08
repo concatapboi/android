@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OT</string>
+    <array name="ds">
+        <item>Chau vay hong</item>
+        <item>Hien lot khe</item>
+        <item>Quan suon xam</item>
+        <item>Khang buom</item>
+        <item>Thang du tham</item>
+    </array>
+</resources>
